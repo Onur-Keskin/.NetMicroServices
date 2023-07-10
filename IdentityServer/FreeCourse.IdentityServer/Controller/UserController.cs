@@ -26,7 +26,7 @@ namespace FreeCourse.IdentityServer.Controller
         {
             var user = new ApplicationUser
             {
-                UserName = signupDto.Username,
+                UserName = signupDto.Username,//kullanıcı bilgilerini yazdık
                 Email = signupDto.Email,
                 City = signupDto.City,
             };//password kaydedilmiyor hashlenmesi lazım crate yaparken yapılacak
