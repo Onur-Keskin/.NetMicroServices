@@ -7299,11 +7299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onur\\Desktop\\.NetMicroServices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
+      "projectUniqueName": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
       "projectName": "FreeCourse.IdentityServer",
-      "projectPath": "C:\\Users\\Onur\\Desktop\\.NetMicroServices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
+      "projectPath": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
       "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onur\\Desktop\\.NetMicroServices\\IdentityServer\\FreeCourse.IdentityServer\\obj\\",
+      "outputPath": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\IdentityServer\\FreeCourse.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7325,8 +7325,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Onur\\Desktop\\.NetMicroServices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-              "projectPath": "C:\\Users\\Onur\\Desktop\\.NetMicroServices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
+            "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+              "projectPath": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
             }
           }
         }
