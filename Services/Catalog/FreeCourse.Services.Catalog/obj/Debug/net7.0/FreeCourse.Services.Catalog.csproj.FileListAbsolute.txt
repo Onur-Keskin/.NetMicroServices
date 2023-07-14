@@ -148,3 +148,10 @@ C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Ser
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net7.0\FreeCourse.Services.Catalog.pdb
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net7.0\FreeCourse.Services.Catalog.genruntimeconfig.cache
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net7.0\ref\FreeCourse.Services.Catalog.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
