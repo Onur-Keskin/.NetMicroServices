@@ -4,7 +4,7 @@
     {
         public string UserId { get; set; }
 
-        public decimal Price { get; set; }
+        public string DiscountCode { get; set; }
 
         public List<BasketItemDto> BasketItems { get; set; }
 

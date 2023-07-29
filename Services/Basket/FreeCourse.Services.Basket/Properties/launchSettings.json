@@ -29,7 +29,7 @@
     },
     "FreeCourse.Services.Basket": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
+      "dotnetRunMessages": "true",
       "launchBrowser": false,
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5013",
