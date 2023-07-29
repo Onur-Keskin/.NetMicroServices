@@ -1,4 +1,8 @@
 ﻿using StackExchange.Redis;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace FreeCourse.Services.Basket.Services
 {
@@ -9,6 +13,7 @@ namespace FreeCourse.Services.Basket.Services
         private readonly int _port;
 
         private ConnectionMultiplexer _ConnectionMultiplexer;
+
         public RedisService(string host, int port)
         {
             _host = host;

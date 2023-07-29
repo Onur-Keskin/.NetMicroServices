@@ -1,6 +1,5 @@
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\appsettings.json
-C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.staticwebassets.runtime.json
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.exe
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.deps.json
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.runtimeconfig.json
