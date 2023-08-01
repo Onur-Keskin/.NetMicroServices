@@ -15,3 +15,5 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Serv
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Infrastructure\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.pdb
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Infrastructure\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.pdb
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Infrastructure\obj\Debug\net7.0\FreeCourse.Services.Order.Infrastructure.csproj.CopyComplete
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Infrastructure\bin\Debug\net7.0\FreeCourse.Services.Order.Infrastructure.runtimeconfig.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Infrastructure\obj\Debug\net7.0\FreeCourse.Services.Order.Infrastructure.genruntimeconfig.cache
