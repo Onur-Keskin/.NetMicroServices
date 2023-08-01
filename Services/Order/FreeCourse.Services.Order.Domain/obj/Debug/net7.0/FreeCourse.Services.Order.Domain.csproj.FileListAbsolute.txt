@@ -1,0 +1,15 @@
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.deps.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.csproj.AssemblyReference.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.AssemblyInfoInputs.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.AssemblyInfo.cs
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\refint\FreeCourse.Services.Order.Domain.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\ref\FreeCourse.Services.Order.Domain.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.csproj.CopyComplete

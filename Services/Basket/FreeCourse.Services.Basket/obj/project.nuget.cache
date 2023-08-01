@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1IzaTmLDA80M8tDmtte2ufXo8aINfNMP1gjVsw5Sv1SDMm5vSUSTkGO7KYxgiG9ZZp5pU2OtBfOBPS6Fj67qZg==",
+  "dgSpecHash": "tnKEy4lVj0AhjWFOUvb13XAcwz4QyU6m5YQJA0qMWAQmwsPqfHOk73JUXW/Q1y46jo9oZvB50D4D5uAV1/2acQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj",
+  "projectFilePath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.9\\microsoft.aspnetcore.authentication.jwtbearer.7.0.9.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

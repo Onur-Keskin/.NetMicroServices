@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZpHQMIt6v/2mNOdoYAGxCAXJhCy41AglVWfqJEqe22VQ/EXwWcurAFlT0gr6KzoykdBoJQ2Tlgn3KOaYXiGsg==",
+  "dgSpecHash": "9PDx1D8Y5pR1wKsKGfJ5BBSSyJydg/j3Rib+/hGJB6L5zJ0mJA7jxf0l4qo1bd+auk8cmnkpmxDclSaRHBPCMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\Services\\PhotoStock\\FreeCourses.Services.PhotoStock\\FreeCourses.Services.PhotoStock.csproj",
+  "projectFilePath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\PhotoStock\\FreeCourses.Services.PhotoStock\\FreeCourses.Services.PhotoStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.9\\microsoft.aspnetcore.authentication.jwtbearer.7.0.9.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
