@@ -40,3 +40,45 @@ C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Onur\Desktop\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\appsettings.Development.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\appsettings.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.exe
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.deps.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.runtimeconfig.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourse.Shared.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourse.Shared.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.csproj.AssemblyReference.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.AssemblyInfoInputs.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.AssemblyInfo.cs
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.csproj.CoreCompileInputs.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.MvcApplicationPartsAssemblyInfo.cs
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.MvcApplicationPartsAssemblyInfo.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets\msbuild.FreeCourses.Services.PhotoStock.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets\msbuild.build.FreeCourses.Services.PhotoStock.props
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FreeCourses.Services.PhotoStock.props
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FreeCourses.Services.PhotoStock.props
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets.build.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\staticwebassets.development.json
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\scopedcss\bundle\FreeCourses.Services.PhotoStock.styles.css
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.csproj.CopyComplete
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\refint\FreeCourses.Services.PhotoStock.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.genruntimeconfig.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\ref\FreeCourses.Services.PhotoStock.dll

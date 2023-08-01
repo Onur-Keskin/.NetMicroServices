@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pcSlNalt209YDdFpyFKR+UyKY/iiuPAzUT4fkQyY318U+2GH6w0mPLZwNqndRWJFbTnx3RnsHtKq5luDsE8+hg==",
+  "dgSpecHash": "nFzMZLo8+jpL106kK5SnBjF8FlH+pk3VaChgyHoPA/PDd7+uyXOutOAa5i1Fw/1nUosbo0MPXxt0DdDtU1l6pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\Desktop\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+  "projectFilePath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
