@@ -56,6 +56,12 @@
               "target": "Package",
               "version": "[7.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -117,6 +123,9 @@
               },
               "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj": {
                 "projectPath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj"
+              },
+              "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
+                "projectPath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
               }
             }
           }
@@ -258,6 +267,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -22,8 +22,8 @@ namespace FreeCourse.Services.Order.Infrastructure
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Domain.OrderAggregate.Order>().ToTable("orders", DEFAULT_SCHEMA);
-            modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().ToTable("orders", DEFAULT_SCHEMA);
+            modelBuilder.Entity<Domain.OrderAggregate.Order>().ToTable("Orders", DEFAULT_SCHEMA);
+            modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().ToTable("OrderItems", DEFAULT_SCHEMA);
             modelBuilder.Entity<Domain.OrderAggregate.OrderItem>().Property(x => x.Price).HasColumnType("decimal(18,2)");//toplam 18 karakter virgülden sonra 2 karakter
             modelBuilder.Entity<Domain.OrderAggregate.Order>().OwnsOne(o => o.Address).WithOwner();
 
