@@ -23,6 +23,10 @@ namespace FreeCourse.Services.Order.Domain.OrderAggregate
 
         public IReadOnlyCollection<OrderItem> OrderItems => _orderItems; //Burada encapculating yapıldı
 
+        public Order()//Default olarak bu ctor u yazmamız gerekiyor
+        {
+
+        }
         public Order(string buyerId, Address address)
         {
             _orderItems = new List<OrderItem>();
