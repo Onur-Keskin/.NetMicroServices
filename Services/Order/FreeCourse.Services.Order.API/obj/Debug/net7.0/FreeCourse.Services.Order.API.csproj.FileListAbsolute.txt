@@ -88,3 +88,4 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Serv
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
