@@ -35,9 +35,6 @@
             "projectReferences": {
               "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj": {
                 "projectPath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj"
-              },
-              "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj": {
-                "projectPath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj"
               }
             }
           }
@@ -52,9 +49,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
