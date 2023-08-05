@@ -29,3 +29,8 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\D
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\FreeCourse.Web.pdb
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\FreeCourse.Web.genruntimeconfig.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\ref\FreeCourse.Web.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\IdentityModel.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\FreeCourse.Shared.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\FreeCourse.Shared.pdb
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\FreeCourse.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\FreeCourse.Web.csproj.CopyComplete
