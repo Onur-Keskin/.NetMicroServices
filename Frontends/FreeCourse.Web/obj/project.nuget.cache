@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HclJOsMaSbJ6jVBJJQxy/KtUYvYA4c+3QXDmJ1kfr9bgyrAY29zn23GniEW1aaaZKJNvwsw0I4f+HjCJABZ84g==",
+  "dgSpecHash": "1N9kxyejt9nBLRSPb2IbQt77UEJVyL0X7BvHY6BiINsrZkeujEQMxnI19qL5IvqfevLS4j92tbs+XddjFLsa7w==",
   "success": true,
   "projectFilePath": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Frontends\\FreeCourse.Web\\FreeCourse.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Onur\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
