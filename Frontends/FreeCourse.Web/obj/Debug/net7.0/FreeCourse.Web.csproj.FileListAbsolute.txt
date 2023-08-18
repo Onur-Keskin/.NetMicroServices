@@ -34,3 +34,10 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\D
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\FreeCourse.Shared.pdb
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\FreeCourse.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\obj\Debug\net7.0\FreeCourse.Web.csproj.CopyComplete
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Frontends\FreeCourse.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
