@@ -532,7 +532,6 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.Iden
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.AssemblyInfoInputs.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.AssemblyInfo.cs
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.csproj.CoreCompileInputs.cache
-D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.RazorAssemblyInfo.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.RazorAssemblyInfo.cs
@@ -572,3 +571,4 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.Iden
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.dll
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.pdb
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.genruntimeconfig.cache
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
