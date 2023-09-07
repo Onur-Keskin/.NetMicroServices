@@ -56,9 +56,10 @@ namespace FreeCourse.Web.Services
             return responseSuccess.Data;
         }
 
-        //[controller]/GetAllByUserId/{userId}
         public async Task<List<CourseViewModel>> GetAllCourseByUserIdAsync(string userId)
         {
+            //[controller]/GetAllByUserId/{userId}
+
             var response = await _httpClient.GetAsync($"courses/GetAllByUserId/{userId}");
 
             if (!response.IsSuccessStatusCode)

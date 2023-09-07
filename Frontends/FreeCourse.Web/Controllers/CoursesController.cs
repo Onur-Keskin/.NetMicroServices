@@ -9,7 +9,7 @@ namespace FreeCourse.Web.Controllers
     public class CoursesController : Controller
     {
         private readonly ICatalogService _catalogService;
-        private readonly ISharedIdentityService _sharedIdentityService;//kullanıcı id'si lazım token'dan okuyacağız
+        private readonly ISharedIdentityService _sharedIdentityService;
 
         public CoursesController(ICatalogService catalogService, ISharedIdentityService sharedIdentityService)
         {
