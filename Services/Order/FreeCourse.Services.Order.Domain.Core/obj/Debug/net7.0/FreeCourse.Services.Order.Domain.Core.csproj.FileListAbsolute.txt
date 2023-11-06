@@ -1,7 +1,6 @@
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.deps.json
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.dll
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.pdb
-D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.csproj.AssemblyReference.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfoInputs.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net7.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfo.cs

@@ -16,7 +16,7 @@ namespace FreeCourse.Web.Services
 
         public async Task<bool> CreateCourseAsync(CourseCreateInput courseCreateInput)
         {
-            var response = await _httpClient.PostAsJsonAsync<CourseCreateInput>("courses",courseCreateInput);
+            var response = await _httpClient.PostAsJsonAsync("courses",courseCreateInput);
 
             return response.IsSuccessStatusCode;
         }
@@ -61,7 +61,7 @@ namespace FreeCourse.Web.Services
             //[controller]/GetAllByUserId/{userId}
 
             var response = await _httpClient.GetAsync($"courses/GetAllByUserId/{userId}");
-
+            
             if (!response.IsSuccessStatusCode)
             {
                 return null;
