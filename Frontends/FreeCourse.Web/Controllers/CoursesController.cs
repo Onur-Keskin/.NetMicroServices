@@ -1,4 +1,5 @@
 ﻿using FreeCourse.Shared.Services;
+using FreeCourse.Web.Models.Catalogs;
 using FreeCourse.Web.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -31,6 +32,34 @@ namespace FreeCourse.Web.Controllers
 
             return View();
 
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(CourseCreateInput courseCreateInput)
+        {
+            var categories = await _catalogService.GetAllCategoryAsync();
+            ViewBag.categoryList = new SelectList(categories, "Id", "Name");
+
+            if (string.IsNullOrEmpty(courseCreateInput.UserId))
+            {
+                Console.WriteLine("UserId alanı gereklidir.");
+            }
+
+            if (string.IsNullOrEmpty(courseCreateInput.Picture))
+            {
+                Console.WriteLine("Picture alanı gereklidir.");
+            }
+          
+            if (!ModelState.IsValid)
+            {
+                return View(ViewData.ModelState.Values);
+            }
+
+            courseCreateInput.UserId = _sharedIdentityService.GetUserId.ToString();
+
+            var response = await _catalogService.CreateCourseAsync(courseCreateInput);
+
+            return RedirectToAction(nameof(Index));
         }
     }
 }

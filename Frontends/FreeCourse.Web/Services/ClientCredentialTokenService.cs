@@ -3,17 +3,22 @@ using FreeCourse.Web.Services.Interfaces;
 using IdentityModel.AspNetCore.AccessTokenManagement;
 using IdentityModel.Client;
 using Microsoft.Extensions.Options;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace FreeCourse.Web.Services
 {
-    public class ClientCredentialTokenService : IClientCridentialTokenService
+    public class ClientCredentialTokenService : IClientCredentialTokenService
     {
         private readonly ServiceApiSettings _serviceApiSettings;
         private readonly ClientSettings _clientSettings;
         private readonly IClientAccessTokenCache _clientAccessTokenCache;
         private readonly HttpClient _httpClient;
 
-        public ClientCredentialTokenService(IOptions<ServiceApiSettings> serviceApiSettings,IOptions<ClientSettings> clientSettings, IClientAccessTokenCache clientAccessTokenCache, HttpClient httpClient)
+        public ClientCredentialTokenService(IOptions<ServiceApiSettings> serviceApiSettings, IOptions<ClientSettings> clientSettings, IClientAccessTokenCache clientAccessTokenCache, HttpClient httpClient)
         {
             _serviceApiSettings = serviceApiSettings.Value;
             _clientSettings = clientSettings.Value;
@@ -23,7 +28,7 @@ namespace FreeCourse.Web.Services
 
         public async Task<string> GetToken()
         {
-            var currentToken = await _clientAccessTokenCache.GetAsync("WebClientToken",null);
+            var currentToken = await _clientAccessTokenCache.GetAsync("WebClientToken", null);
 
             if (currentToken != null)
             {
@@ -33,8 +38,7 @@ namespace FreeCourse.Web.Services
             var disco = await _httpClient.GetDiscoveryDocumentAsync(new DiscoveryDocumentRequest
             {
                 Address = _serviceApiSettings.IdentityBaseUri,
-                Policy = new DiscoveryPolicy { RequireHttps = false },
-
+                Policy = new DiscoveryPolicy { RequireHttps = false }
             });
 
             if (disco.IsError)
@@ -51,7 +55,7 @@ namespace FreeCourse.Web.Services
 
             var newToken = await _httpClient.RequestClientCredentialsTokenAsync(clientCredentialTokenRequest);
 
-            if(newToken.IsError)
+            if (newToken.IsError)
             {
                 throw newToken.Exception;
             }
