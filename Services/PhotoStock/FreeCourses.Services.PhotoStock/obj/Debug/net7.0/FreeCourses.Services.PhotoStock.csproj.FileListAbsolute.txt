@@ -82,3 +82,4 @@ D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourse
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.pdb
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\FreeCourses.Services.PhotoStock.genruntimeconfig.cache
 D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\obj\Debug\net7.0\ref\FreeCourses.Services.PhotoStock.dll
+D:\Ders Dokümanlarım\Github\MicroservicesCourse\Services\PhotoStock\FreeCourses.Services.PhotoStock\bin\Debug\net7.0\FreeCourses.Services.PhotoStock.staticwebassets.runtime.json

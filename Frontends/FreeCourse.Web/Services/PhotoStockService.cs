@@ -1,4 +1,5 @@
-﻿using FreeCourse.Web.Models.PhotoStocks;
+﻿using FreeCourse.Shared.Dtos;
+using FreeCourse.Web.Models.PhotoStocks;
 using FreeCourse.Web.Services.Interfaces;
 
 namespace FreeCourse.Web.Services
@@ -43,8 +44,9 @@ namespace FreeCourse.Web.Services
                 return null;
             }
 
-            return await response.Content.ReadFromJsonAsync<PhotoViewModel>(); //dönen veriyi neye dönüştüreceğimizi belirttik
+            var responseSuccess = await response.Content.ReadFromJsonAsync<Response<PhotoViewModel>>(); //dönen veriyi neye dönüştüreceğimizi belirttik
 
+            return responseSuccess.Data;
         }
     }
 }

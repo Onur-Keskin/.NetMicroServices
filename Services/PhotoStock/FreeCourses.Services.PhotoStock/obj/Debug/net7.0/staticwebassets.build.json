@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "MAG3Y90D1jKk7bOji6eHpU42owIxlhox6UtavdxZ9fM=",
+  "Hash": "3rkqsbB0EzUdyq57m88bFTlyM/AWZaGmMczlRny+8CA=",
   "Source": "FreeCourses.Services.PhotoStock",
   "BasePath": "_content/FreeCourses.Services.PhotoStock",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FreeCourses.Services.PhotoStock\\wwwroot",
+      "Source": "FreeCourses.Services.PhotoStock",
+      "ContentRoot": "D:\\Ders Dokümanlarım\\Github\\MicroservicesCourse\\Services\\PhotoStock\\FreeCourses.Services.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/FreeCourses.Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
