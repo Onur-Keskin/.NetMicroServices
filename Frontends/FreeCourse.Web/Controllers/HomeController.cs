@@ -1,5 +1,7 @@
-﻿using FreeCourse.Web.Models;
+﻿using FreeCourse.Web.Exceptions;
+using FreeCourse.Web.Models;
 using FreeCourse.Web.Services.Interfaces;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Logging;
 using System.Diagnostics;
@@ -31,6 +33,15 @@ namespace FreeCourse.Web.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
+            var erroFeature = HttpContext.Features.Get<IExceptionHandlerFeature>();
+
+            if (erroFeature != null && erroFeature.Error is UnAuthorizeException)
+            {
+                //Demekki benim fırlattığım bir hata
+                //Kullanıcı refresh token'ın ömrü olan 60 gün boyunca sisteme hiç girmezse burası çalışacak
+                return RedirectToAction(nameof(AuthController.Logout), "Auth");
+            }
+
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
